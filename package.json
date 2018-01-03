@@ -1,0 +1,28 @@
+{
+  "name": "express.js",
+  "version": "1.0.0",
+  "description": "Express.js Homework",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJHowell/Express.JS.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Justin Howell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJHowell/Express.JS/issues"
+  },
+  "homepage": "https://github.com/JJHowell/Express.JS#readme"
+}
